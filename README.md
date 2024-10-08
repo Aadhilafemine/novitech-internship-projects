@@ -1,1 +1,1 @@
-# novitech-internship-projects
+# Novitech-internship-projects
